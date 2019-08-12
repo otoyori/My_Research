@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="lessn1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lessn2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="My_Research.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
