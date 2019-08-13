@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a457ec74-e963-4ec7-849a-1aad4142c625</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>My_Research.py</StartupFile>
+    <StartupFile>lessn3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="lessn2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lessn3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="My_Research.py" />
